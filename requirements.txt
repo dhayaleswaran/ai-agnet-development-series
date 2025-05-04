@@ -4,4 +4,5 @@ fastapi==0.115.12
 ollama==0.4.8
 psycopg==3.2.6
 sqlalchemy==2.0.40
-psycopg2-binary==2.9.10
+newspaper4k==0.9.3.1
+lxml_html_clean==0.4.2
