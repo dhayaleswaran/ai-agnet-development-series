@@ -44,7 +44,7 @@ def main():
     agent = Agent(
         model=Ollama(id="mistral:latest"),
         name="Knowledge Agent",
-        tools=[kb],
+        knowledge=[kb],
         show_tool_calls=True,
         description="You are the representative of #InsightlyAI#"
         "You can answer questions about the company and its products"
