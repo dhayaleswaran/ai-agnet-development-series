@@ -1,0 +1,28 @@
+🛠 Troubleshooting Guides
+
+1. Dashboard says "No data found"
+    * Cause: This usually happens when the integration with your feedback source is disrupted.
+    * Solution:
+        * Go to Settings > Integrations and check the status of your active integrations (e.g., Intercom, Google Forms).
+        * Reconnect or reauthenticate the integration by following the integration steps again.
+
+2. Sentiment analysis seems inaccurate
+    * Cause: The sentiment model might be misinterpreting certain phrases, especially if they contain sarcasm or colloquialisms.
+    * Solution:
+        * Manually tag a sample set of feedback to train the model.
+        * Use the Feedback Calibration tool in Settings to improve sentiment accuracy over time.
+
+3. Trouble connecting to Zendesk
+    * Cause: The Zendesk API key might be invalid or the required permissions aren't granted.
+    * Solution:
+        * Check the API settings in your Zendesk account.
+        * In Settings > Integrations, disconnect and reconnect the integration.
+        * Ensure that you have the correct API permissions to access tickets and feedback.
+
+4. Export issues
+    * Cause: Large export files or temporary connectivity issues might prevent downloads.
+    * Solution:
+        * Try exporting data in smaller chunks or with a limited date range.
+        * If exporting large files, use a faster internet connection or try again at a different time.
+
+General Tip: Before troubleshooting, check the InsightlyAI status page for any reported outages or maintenance.

@@ -1,0 +1,64 @@
+InsightlyAI - Integration Guide
+
+InsightlyAI seamlessly integrates with various platforms to centralize your customer feedback analysis. Here's a guide to connecting your feedback sources:
+
+1. Intercom:
+
+* **Method:** API Integration
+* **Requirements:** Your Intercom API credentials (usually found in your Intercom settings under Developer tools).
+* **Steps:**
+    1.  Navigate to **Settings > Integrations > Add Source**.
+    2.  Select "Intercom."
+    3.  Enter your Intercom API Key.
+    4.  Specify which conversation types you want to sync (e.g., chat conversations, tickets).
+    5.  Click "Connect."
+* **Data Synced:** Conversation content, user information (if available).
+
+2. Google Forms:
+
+* **Method:** API Integration or File Upload
+* **Requirements:** For API integration, you'll need to authenticate your Google account. For file upload, you'll need to export your Google Forms responses in CSV format.
+* **Steps (API):**
+    1.  Navigate to **Settings > Integrations > Add Source**.
+    2.  Select "Google Forms."
+    3.  Authenticate your Google account when prompted.
+    4.  Select the specific Google Forms you want to connect.
+    5.  Click "Connect."
+* **Steps (File Upload):**
+    1.  Export your Google Forms responses as a CSV file.
+    2.  Navigate to **Settings > Integrations > Upload File**.
+    3.  Select the "Google Forms CSV" format.
+    4.  Upload your CSV file.
+    5.  Map the relevant columns (e.g., feedback text, submission date).
+    6.  Click "Import."
+* **Data Synced:** Form responses, submission timestamps.
+
+3. Zendesk:
+
+* **Method:** API Integration
+* **Requirements:** Your Zendesk API subdomain and an API token (generated within your Zendesk account under Admin > Channels > API). Ensure the API token has read access to tickets.
+* **Steps:**
+    1.  Navigate to **Settings > Integrations > Add Source**.
+    2.  Select "Zendesk."
+    3.  Enter your Zendesk API Subdomain (e.g., yourcompany.zendesk.com).
+    4.  Enter your Zendesk API Token.
+    5.  Click "Connect."
+* **Data Synced:** Ticket content, ticket metadata (e.g., status, creation date).
+
+4. SurveyMonkey:
+
+* **Method:** API Integration
+* **Requirements:** A SurveyMonkey API key (available in your SurveyMonkey account under Apps & Integrations > Developer).
+* **Steps:**
+    1.  Navigate to **Settings > Integrations > Add Source**.
+    2.  Select "SurveyMonkey."
+    3.  Enter your SurveyMonkey API Key.
+    4.  Select the surveys you want to connect.
+    5.  Click "Connect."
+* **Data Synced:** Survey responses, respondent information (if collected).
+
+**General Integration Tips:**
+
+* Always ensure you have the necessary permissions and credentials for the platform you are trying to integrate.
+* Refer to the specific platform's documentation for any changes in their API or authentication methods.
+* If you encounter issues, consult our Troubleshooting Guides or contact our support team.

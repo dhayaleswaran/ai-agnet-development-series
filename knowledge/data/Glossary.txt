@@ -1,0 +1,19 @@
+InsightlyAI - Glossary of Terms
+
+This glossary defines key terms used within the InsightlyAI platform and in the context of feedback analysis.
+
+* **Sentiment:** The overall feeling or opinion expressed in a piece of text, typically categorized as positive, negative, or neutral.
+* **NLP (Natural Language Processing):** A field of artificial intelligence that enables computers to understand and process human language.
+* **Auto-tagging:** The automatic assignment of relevant keywords or labels to feedback items based on their content.
+* **Tag:** A keyword or label used to categorize feedback, allowing for easier filtering and analysis (e.g., "bug," "feature request," "UX Issue").
+* **Trend Analysis:** The process of identifying patterns and changes in data over time, such as shifts in sentiment or the frequency of specific tags.
+* **Dashboard:** A visual interface that provides an at-a-glance overview of key metrics and insights derived from feedback data.
+* **Integration:** The process of connecting InsightlyAI with other software platforms (e.g., Intercom, Zendesk) to automatically import feedback data.
+* **API (Application Programming Interface):** A set of rules and protocols that allows different software applications to communicate and exchange data with each other.
+* **Sentiment Score:** A numerical value representing the degree and direction of sentiment expressed in a piece of text.
+* **Feedback Item:** A single piece of customer feedback, such as a survey response, a chat message, or a support ticket.
+* **CX (Customer Experience):** The overall perception and feelings a customer has when interacting with a business or product.
+* **UX (User Experience):** The overall experience of a person using a product, especially in terms of how easy or pleasing it is to use.
+* **BI (Business Intelligence):** Software and services used to transform data into actionable insights that inform an organization's strategic and tactical business decisions.
+* **GDPR (General Data Protection Regulation):** A European Union regulation on data protection and privacy.
+* **CCPA (California Consumer Privacy Act):** A California state law that grants consumers various rights regarding their personal information.

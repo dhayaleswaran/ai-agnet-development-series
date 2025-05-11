@@ -1,0 +1,7 @@
+🧭 Onboarding & Setup Instructions
+
+Step 1: Connect Your Feedback Sources
+
+Navigate to Integrations > Add Source and select your feedback platform.
+
+*

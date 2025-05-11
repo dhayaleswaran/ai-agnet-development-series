@@ -1,0 +1,17 @@
+🔐 Security & Compliance Information
+
+How is my data protected?
+
+Data is stored in ISO 27001 certified data centers, ensuring the highest security standards. Real-time encryption (AES-256) of feedback data both at rest and in transit ensures that unauthorized parties cannot access it.
+
+Can InsightlyAI access my customer feedback?
+
+We do not access your raw customer feedback unless required for technical support or troubleshooting. You retain complete ownership and control over all your data.
+
+Is my data anonymized?
+
+Yes, we anonymize sensitive user information by default to ensure customer privacy. However, you can choose to retain identifiable information depending on your compliance needs.
+
+Are you GDPR and CCPA compliant?
+
+InsightlyAI is fully compliant with GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act). We provide full transparency regarding data collection, processing, and storage. We also undergo regular security audits to ensure the ongoing protection of your data.

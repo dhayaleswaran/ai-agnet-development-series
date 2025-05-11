@@ -6,3 +6,7 @@ psycopg==3.2.6
 sqlalchemy==2.0.40
 newspaper4k==0.9.3.1
 lxml_html_clean==0.4.2
+pgvector==0.4.1 
+psycopg-binary==3.2.6
+importlib-metadata==8.7.0
+packaging==25.0

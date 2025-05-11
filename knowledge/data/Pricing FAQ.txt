@@ -1,0 +1,30 @@
+💰 Pricing & Plans FAQ
+
+What pricing plans are available?
+
+* Starter (Free):
+    * Limit: 500 feedback items/month.
+    * Features: Basic sentiment analysis, limited reporting, and one integration (e.g., Google Forms, Zendesk).
+    * Perfect for: Small businesses or startups that need basic insights into user feedback.
+* Pro ($49/month):
+    * Limit: 5,000 feedback items/month.
+    * Features: Advanced sentiment analysis, auto-tagging, trend tracking, unlimited reports, and up to 5 integrations (e.g., Intercom, SurveyMonkey, Zendesk).
+    * Perfect for: Growing businesses with active customer interaction across multiple channels.
+* Enterprise (Custom Pricing):
+    * Limit: Unlimited feedback items.
+    * Features: API access, custom integrations, advanced reporting, priority support, and dedicated account manager.
+    * Perfect for: Large enterprises needing tailored solutions and dedicated support.
+
+How do I know which plan to choose?
+
+If you're just starting and need basic insights, the Starter plan is great. If you handle a moderate amount of feedback daily, the Pro plan will scale with your business needs. If you're handling a vast amount of feedback or require custom integrations, the Enterprise plan will be ideal.
+
+Can I upgrade/downgrade at any time?
+
+Yes! You can switch plans at any time. For example, if you're growing rapidly, you can move to the Pro or Enterprise plan, and your billing cycle will adjust accordingly.
+
+Do you offer discounts for annual billing?
+
+Yes! If you choose to pay for the Pro plan annually, you’ll receive 2 months free (equivalent to 16 months for the price of 12).
+
+For the most up-to-date pricing details and any additional plans, please visit our pricing page.
