@@ -3,7 +3,7 @@ from helpers.get_document_data import get_document_data
 from agno.agent import Agent
 from dotenv import load_dotenv
 from os import getenv
-from agno.vectordb.pgvector import PgVector, SearchType
+from agno.vectordb.pgvector import PgVector, SearchType, HNSW
 from agno.embedder.ollama import OllamaEmbedder
 from agno.document.base import Document
 from agno.knowledge.document import DocumentKnowledgeBase
@@ -29,7 +29,7 @@ def main():
         db_url=db_url,
         search_type=SearchType.hybrid,
         embedder=OllamaEmbedder(id="nomic-embed-text", dimensions=768),
-        vector_index="HSNW",
+        vector_index=HNSW,
     )
 
     docs = [Document(content=text) for text in document_data]
